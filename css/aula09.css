@@ -1,0 +1,11 @@
+#caixa {
+    margin: 20px;
+}
+
+#btn_load, #btn_cmd {
+    padding: 15px;
+    font-family: Verdana;
+    font-size: 14px;
+    margin: 20px;
+}
+

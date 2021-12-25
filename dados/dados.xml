@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+    <cliente>
+        <nome>Carlos Miguel</nome>
+        <contacto>123234345</contacto>
+    </cliente>
+    <cliente>
+        <nome>Ana Carolina</nome>
+        <contacto>987654321</contacto>
+    </cliente>
+    <cliente>
+        <nome>Alexandre</nome>
+        <contacto>234651235</contacto>
+    </cliente>
+    <cliente>
+        <nome>Joana Maria</nome>
+        <contacto>346482387</contacto>
+    </cliente>
+</lista>

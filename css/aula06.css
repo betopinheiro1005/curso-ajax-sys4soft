@@ -1,0 +1,11 @@
+#caixa1, #caixa2 {
+    margin: 20px;
+}
+
+#btn_com1, #btn_com2 {
+    padding: 15px;
+    font-family: Verdana;
+    font-size: 14px;
+    margin: 10px 20px;
+}
+

@@ -1,0 +1,14 @@
+#btn_enviar {
+    padding: 10px;
+    font-family: Verdana;
+    font-size: 14px;
+    margin: 10px;
+}
+
+#minhaForm, #nome, #email, #mensagem {
+    margin: 10px;
+}
+
+div#info {
+    margin: 20px;
+}

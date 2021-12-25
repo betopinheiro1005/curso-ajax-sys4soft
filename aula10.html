@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ajax - Aula 10</title>
+        <link rel="stylesheet" href="css/estilos.css">
+        <link rel="stylesheet" href="css/aula10.css">
+    </head>
+    <body>
+        <div id="container">
+            <h1>Aula 10</h1>
+            <h2>Ajax e jQuery - Submetendo um formulário</h2>
+
+            <!-- Formulário -->
+            <div id="info"></div>
+            <form method="post" action="tratar.php" id="minhaForm">
+                <div id="nome"><input type="text" name="nome" placeholder="Nome" /></div>
+                <div id="email"><input type="text" name="email" placeholder="Email" /></div>
+                <div id="mensagem"><textarea cols="30" rows="10" name="mensagem" placeholder="Mensagem"></textarea></div>
+                <div><button id="btn_enviar" onclick="SubmeterFormulario('minhaForm')">Enviar</button></div>
+            </form>
+        </div>
+
+        <!-- Javascript -->
+
+        <script type="text/javascript" src="js/jquery-3.2.1.js"></script>        
+        <script type="text/javascript" src="js/aula10.js"></script>
+
+    </body>
+</html>
